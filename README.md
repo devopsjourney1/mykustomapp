@@ -20,7 +20,7 @@ kubectl apply -k .
 kubectl apply -k overlays/dev/
 kubectl apply -k overlays/prod/
 ```
-Note: if you get field is immutable error, check your configuration and try deleting the resources.
+Note: if you get field is immutable error, check your configuration and try deleting the resources then applying again.
 
 
 ## Creating Namespaces if you dont have them already
