@@ -3,6 +3,7 @@
 kubectl version
 ```
 *If you have 1.21 or above of kubectl you will have access to kubectl kustomize which is the recommended method. If you aren't on version 1.21 or above, upgrade kubectl.
+
 *You could also download/use the 'kutomize' binary seperatly but the cmds are different.
 
 
