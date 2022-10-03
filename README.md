@@ -1,0 +1,6 @@
+
+
+
+```
+minikube service mywebapp
+```
