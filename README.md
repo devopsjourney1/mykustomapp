@@ -1,4 +1,4 @@
-## Installation
+## Check your version of kubectl
 ```
 kubectl version
 ```
