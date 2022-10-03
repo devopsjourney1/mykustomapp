@@ -6,4 +6,4 @@ metadata:
 data:
   BG_COLOR: '#12181b'
   FONT_COLOR: '#FFFFFF'
-  CUSTOM_HEADER: My Customer webapp
+  CUSTOM_HEADER: My Custom Message
